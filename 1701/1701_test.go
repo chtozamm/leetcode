@@ -11,7 +11,7 @@ type testCase struct {
 	expected  float64
 }
 
-func TestFindTheWinner(t *testing.T) {
+func TestAverageWaitingTime(t *testing.T) {
 	testCases := []testCase{
 		{customers: [][]int{{1, 2}, {2, 5}, {4, 3}}, expected: 5.0},
 		{customers: [][]int{{5, 2}, {5, 4}, {10, 3}, {20, 1}}, expected: 3.25},

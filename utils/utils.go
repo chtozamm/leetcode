@@ -22,3 +22,31 @@ func WithinTolerance(a, b, e float64) bool {
 	// Compare the relative difference
 	return d/math.Abs(b) < e
 }
+
+// SlicesEqualUnordered checks if two slices are equal ignoring the order.
+func SlicesEqualUnordered(slice1, slice2 []int) bool {
+	if len(slice1) != len(slice2) {
+		return false
+	}
+
+	counts := make(map[int]int)
+
+	for _, num := range slice1 {
+		counts[num]++
+	}
+
+	for _, num := range slice2 {
+		counts[num]--
+		if counts[num] < 0 {
+			return false
+		}
+	}
+
+	for _, count := range counts {
+		if count != 0 {
+			return false
+		}
+	}
+
+	return true
+}
