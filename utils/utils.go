@@ -50,3 +50,11 @@ func SlicesEqualUnordered(slice1, slice2 []int) bool {
 
 	return true
 }
+
+func ReverseString(s string) string {
+	chars := []rune(s)
+	for i, j := 0, len(chars)-1; i < j; i, j = i+1, j-1 {
+		chars[i], chars[j] = chars[j], chars[i]
+	}
+	return string(chars)
+}
