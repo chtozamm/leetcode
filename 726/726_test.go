@@ -17,9 +17,25 @@ func TestCountOfAtoms(t *testing.T) {
 	}
 
 	for _, tc := range testCases {
-		got := countOfAtoms(tc.input)
-		if got != tc.expected {
-			t.Errorf("got %q; expected %q", got, tc.expected)
-		}
+		t.Run(tc.input+" Recursion", func(t *testing.T) {
+			got := countOfAtomsRecursion(tc.input)
+			if got != tc.expected {
+				t.Errorf("Recursion-Based approach: got %q, expected %q", got, tc.expected)
+			}
+		})
+
+		t.Run(tc.input+" Stack", func(t *testing.T) {
+			got := countOfAtomsStack(tc.input)
+			if got != tc.expected {
+				t.Errorf("Stack-Based approach: got %q, expected %q", got, tc.expected)
+			}
+		})
+
+		t.Run(tc.input+" Regular Expression", func(t *testing.T) {
+			got := countOfAtomsRegex(tc.input)
+			if got != tc.expected {
+				t.Errorf("Regular Expression-Based approach: got %q, expected %q", got, tc.expected)
+			}
+		})
 	}
 }

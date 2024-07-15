@@ -10,7 +10,7 @@ import (
 
 var index int
 
-func countOfAtoms(formula string) string {
+func countOfAtomsRecursion(formula string) string {
 	index = 0 // Reset index to 0 at the beginning of each call (for tests)
 
 	finalMap := parseFormula(formula)
