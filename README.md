@@ -10,6 +10,7 @@
 - [1717. Maximum Score From Removing Substrings](/1717/)
 - [1823. Find the Winner of the Circular Game](/1823/)
 - [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](/2058/)
+- [2196. Create Binary Tree From Descriptions](/2196/)
 - [2582. Pass the Pillow](/2582/)
 - [2751. Robot Collisions](/2751/)
 - [3136. Valid Word](/3136/)
