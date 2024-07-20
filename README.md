@@ -11,6 +11,7 @@
 - [1530. Number of Good Leaf Nodes Pairs](/1530/)
 - [1518. Water Bottles](/1518/)
 - [1598. Crawler Log Folder](/1598/)
+- [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
 - [1701. Average Waiting Time](/1701/)
 - [1717. Maximum Score From Removing Substrings](/1717/)
 - [1823. Find the Winner of the Circular Game](/1823/)
@@ -35,3 +36,4 @@
 
 - [350. Intersection of Two Arrays II](/350/)
 - [1380. Lucky Numbers in a Matrix](/1380/)
+- [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
