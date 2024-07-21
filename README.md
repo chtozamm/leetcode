@@ -18,6 +18,7 @@
 - [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](/2058/)
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another](/2096/)
 - [2196. Create Binary Tree From Descriptions](/2196/)
+- [2392. Build a Matrix With Conditions](/2392/)
 - [2582. Pass the Pillow](/2582/)
 - [2751. Robot Collisions](/2751/)
 - [3136. Valid Word](/3136/)
@@ -37,3 +38,9 @@
 - [350. Intersection of Two Arrays II](/350/)
 - [1380. Lucky Numbers in a Matrix](/1380/)
 - [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
+
+## Graph
+
+**Topological Sort:**
+
+- [2392. Build a Matrix With Conditions](/2392/)
