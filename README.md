@@ -1,5 +1,7 @@
 # LeetCode Problems
 
+\* multiple solutions
+
 **Unsorted:**
 
 - [726. Number of Atoms](/726/)\*
@@ -17,9 +19,6 @@
 - [2751. Robot Collisions](/2751/)
 - [3136. Valid Word](/3136/)
 
----
-\* multiple solutions
-
 ## Binary Tree
 
 **Post-Order Traversal:**
@@ -32,6 +31,7 @@
 - [350. Intersection of Two Arrays II](/350/)
 - [1380. Lucky Numbers in a Matrix](/1380/)
 - [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
+- [1636. Sort Array by Increasing Frequency](/1636/)
 - [2418. Sort the People](/2418/)
 
 ## Graph
