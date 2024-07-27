@@ -39,6 +39,7 @@
 ## Graph
 
 - [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](/1334/) #dp #graph #shortest-path
+- [2976. Minimum Cost to Convert String I](/2976/) #shortest-path
 
 **Topological Sort:**
 
