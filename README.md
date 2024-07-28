@@ -39,6 +39,7 @@
 ## Graph
 
 - [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](/1334/) #dp #graph #shortest-path
+- [2045. Second Minimum Time to Reach Destination](/2045/)\* #shortest-path #bfs #dijkstra
 - [2976. Minimum Cost to Convert String I](/2976/) #shortest-path
 
 **Topological Sort:**
