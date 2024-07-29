@@ -31,6 +31,7 @@
 - [350. Intersection of Two Arrays II](/350/)
 - [912. Sort an Array](/912/) #counting-sort
 - [1380. Lucky Numbers in a Matrix](/1380/)
+- [1395. Count Number of Teams](/1395/) #dp
 - [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
 - [1636. Sort Array by Increasing Frequency](/1636/)
 - [2191. Sort the Jumbled Numbers](/2191/)
