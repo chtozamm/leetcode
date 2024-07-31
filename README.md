@@ -4,6 +4,7 @@
 
 **Unsorted:**
 
+- [1. Two Sum](/1/)
 - [726. Number of Atoms](/726/)\*
 - [1190. Reverse Substrings Between Each Pair of Parentheses](/1190/)
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](/1509/)
