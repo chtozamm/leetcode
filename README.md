@@ -52,3 +52,7 @@
 **Topological Sort:**
 
 - [2392. Build a Matrix With Conditions](/2392/)
+
+## String
+
+- [2678. Number of Senior Citizens](/2678/)
