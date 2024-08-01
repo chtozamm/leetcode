@@ -55,6 +55,7 @@
 
 ## String
 
+- [20. Valid Parentheses](/20/) #stack
 - [22. Generate Parentheses](/22/) #dp #backtracking
 - [2678. Number of Senior Citizens](/2678/)
 
