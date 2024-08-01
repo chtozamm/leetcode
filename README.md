@@ -56,3 +56,7 @@
 ## String
 
 - [2678. Number of Senior Citizens](/2678/)
+
+## Linked List
+
+- [2. Add Two Numbers](/2/)

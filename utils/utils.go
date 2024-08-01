@@ -58,3 +58,46 @@ func ReverseString(s string) string {
 	}
 	return string(chars)
 }
+
+// SplitIntReverse splits integer into a slice of single digits.
+// Note that the order of digits is reversed.
+func SplitIntReverse(n int) []int {
+	s := []int{}
+	for n > 0 {
+		s = append(s, n%10)
+		n = n / 10
+	}
+	return s
+}
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+func AreLinkedListsEqual(l1 *ListNode, l2 *ListNode) bool {
+	// Traverse both linked lists simultaneously
+	for l1 != nil && l2 != nil {
+		if l1.Val != l2.Val {
+			return false
+		}
+		l1 = l1.Next
+		l2 = l2.Next
+	}
+
+	// Check if both linked lists have reached the end
+	return l1 == nil && l2 == nil
+}
+
+func SliceToLinkedList(nums []int) *ListNode {
+	if len(nums) == 0 {
+		return nil
+	}
+	head := &ListNode{Val: nums[0]}
+	curr := head
+	for _, num := range nums[1:] {
+		curr.Next = &ListNode{Val: num}
+		curr = curr.Next
+	}
+	return head
+}
