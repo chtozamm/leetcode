@@ -60,3 +60,8 @@
 ## Linked List
 
 - [2. Add Two Numbers](/2/)
+
+## Math
+
+- [9. Palindrome Number](/9/)
+
