@@ -55,6 +55,7 @@
 
 ## String
 
+- [22. Generate Parentheses](/22/) #dp #backtracking
 - [2678. Number of Senior Citizens](/2678/)
 
 ## Linked List
