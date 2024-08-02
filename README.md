@@ -68,3 +68,6 @@
 
 - [9. Palindrome Number](/9/)
 
+## Hash Table
+
+- [13. Roman to Integer](/13/)
