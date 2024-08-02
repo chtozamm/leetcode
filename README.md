@@ -40,6 +40,7 @@
 - [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
 - [1636. Sort Array by Increasing Frequency](/1636/)
 - [1653. Minimum Deletions to Make String Balanced](/1653/)
+- [2134. Minimum Swaps to Group All 1's Together II](/2134/) #sliding-window
 - [2191. Sort the Jumbled Numbers](/2191/)
 - [2418. Sort the People](/2418/)
 
