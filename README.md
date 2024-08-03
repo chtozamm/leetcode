@@ -72,3 +72,4 @@
 
 - [12. Integer to Roman](/12/)
 - [13. Roman to Integer](/13/)
+- [1460. Make Two Arrays Equal by Reversing Subarrays](/1460/)
