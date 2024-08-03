@@ -1,6 +1,9 @@
 package utils
 
-import "math"
+import (
+	"math"
+	"sort"
+)
 
 // WithinTolerance checks if two floating-point numbers are within a specified tolerance.
 // It returns true if the absolute difference between the numbers is less than the tolerance,
@@ -100,4 +103,49 @@ func SliceToLinkedList(nums []int) *ListNode {
 		curr = curr.Next
 	}
 	return head
+}
+
+func SlicesEqualUnordered2D(slice1, slice2 [][]int) bool {
+	if len(slice1) != len(slice2) {
+		return false
+	}
+
+	// Sort inner slices
+	for i := range slice1 {
+		sort.Ints(slice1[i])
+	}
+	for i := range slice2 {
+		sort.Ints(slice2[i])
+	}
+
+	// Sort the outer slices based on the sorted inner slices
+	sort.Slice(slice1, func(i, j int) bool {
+		return less(slice1[i], slice1[j])
+	})
+	sort.Slice(slice2, func(i, j int) bool {
+		return less(slice2[i], slice2[j])
+	})
+
+	// Compare sorted slices
+	for i := range slice1 {
+		for j := range slice1[i] {
+			if slice1[i][j] != slice2[i][j] {
+				return false
+			}
+		}
+	}
+
+	return true
+}
+
+func less(slice1, slice2 []int) bool {
+	for i := 0; i < len(slice1) && i < len(slice2); i++ {
+		if slice1[i] < slice2[i] {
+			return true
+		}
+		if slice1[i] > slice2[i] {
+			return false
+		}
+	}
+	return len(slice1) < len(slice2)
 }

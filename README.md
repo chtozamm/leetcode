@@ -25,6 +25,7 @@
 - [1105. Filling Bookcase Shelves](/1105/)
 - [1395. Count Number of Teams](/1395/)
 - [22. Generate Parentheses](/22/) \#backtracking
+- [46. Permutations](/46/) \#backtracking
 
 ## Binary Tree
 
