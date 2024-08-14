@@ -38,7 +38,10 @@
 
 - [26. Remove Duplicates from Sorted Array](/26/)
 - [27. Remove Element](/27/)
+- [80. Remove Duplicates from Sorted Array II](/80/)
 - [88. Merge Sorted Array](/88/)
+- [169. Majority Element](/169/)
+- [189. Rotate Array](/189/)
 - [350. Intersection of Two Arrays II](/350/)
 - [912. Sort an Array](/912/) \#counting-sort
 - [1380. Lucky Numbers in a Matrix](/1380/)
