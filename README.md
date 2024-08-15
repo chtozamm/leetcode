@@ -40,6 +40,8 @@
 - [27. Remove Element](/27/)
 - [80. Remove Duplicates from Sorted Array II](/80/)
 - [88. Merge Sorted Array](/88/)
+- [121. Best Time to Buy and Sell Stock](/121/)
+- [122. Best Time to Buy and Sell Stock II](/122/)
 - [169. Majority Element](/169/)
 - [189. Rotate Array](/189/)
 - [350. Intersection of Two Arrays II](/350/)
