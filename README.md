@@ -38,6 +38,7 @@
 
 - [26. Remove Duplicates from Sorted Array](/26/)
 - [27. Remove Element](/27/)
+- [55. Jump Game](/55/)
 - [80. Remove Duplicates from Sorted Array II](/80/)
 - [88. Merge Sorted Array](/88/)
 - [121. Best Time to Buy and Sell Stock](/121/)
