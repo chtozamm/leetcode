@@ -46,6 +46,7 @@
 - [122. Best Time to Buy and Sell Stock II](/122/)
 - [169. Majority Element](/169/)
 - [189. Rotate Array](/189/)
+- [274. H-Index](/274)
 - [350. Intersection of Two Arrays II](/350/)
 - [912. Sort an Array](/912/) \#counting-sort
 - [1380. Lucky Numbers in a Matrix](/1380/)
