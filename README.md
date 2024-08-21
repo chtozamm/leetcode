@@ -46,7 +46,8 @@
 - [122. Best Time to Buy and Sell Stock II](/122/)
 - [169. Majority Element](/169/)
 - [189. Rotate Array](/189/)
-- [274. H-Index](/274)
+- [238. Product of Array Except Self](/238/)
+- [274. H-Index](/274/)
 - [350. Intersection of Two Arrays II](/350/)
 - [380. Insert Delete GetRandom O(1)](/380/)
 - [912. Sort an Array](/912/) \#counting-sort
