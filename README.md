@@ -38,6 +38,7 @@
 
 - [26. Remove Duplicates from Sorted Array](/26/)
 - [27. Remove Element](/27/)
+- [42. Trapping Rain Water](/42/)
 - [45. Jump Game II](/45/)
 - [55. Jump Game](/55/)
 - [80. Remove Duplicates from Sorted Array II](/80/)
