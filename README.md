@@ -45,6 +45,7 @@
 - [121. Best Time to Buy and Sell Stock](/121/)
 - [122. Best Time to Buy and Sell Stock II](/122/)
 - [134. Gas Station](/134/)
+- [135. Candy](/135/)
 - [169. Majority Element](/169/)
 - [189. Rotate Array](/189/)
 - [238. Product of Array Except Self](/238/)
