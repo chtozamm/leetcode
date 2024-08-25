@@ -34,13 +34,16 @@
 - [1110. Delete Nodes And Return Forest](/1110/)
 - [1530. Number of Good Leaf Nodes Pairs](/1530/)
 
-## Array
+## Array / String
 
+- [14. Longest Common Prefix](/14/)
+- [20. Valid Parentheses](/20/) \#stack
 - [26. Remove Duplicates from Sorted Array](/26/)
 - [27. Remove Element](/27/)
 - [42. Trapping Rain Water](/42/)
 - [45. Jump Game II](/45/)
 - [55. Jump Game](/55/)
+- [58. Length of Last Word](/58/)
 - [80. Remove Duplicates from Sorted Array II](/80/)
 - [88. Merge Sorted Array](/88/)
 - [121. Best Time to Buy and Sell Stock](/121/)
@@ -62,6 +65,7 @@
 - [2134. Minimum Swaps to Group All 1's Together II](/2134/) \#sliding-window
 - [2191. Sort the Jumbled Numbers](/2191/)
 - [2418. Sort the People](/2418/)
+- [2678. Number of Senior Citizens](/2678/)
 
 ## Graph
 
@@ -72,11 +76,6 @@
 ### Topological Sort
 
 - [2392. Build a Matrix With Conditions](/2392/)
-
-## String
-
-- [20. Valid Parentheses](/20/) \#stack
-- [2678. Number of Senior Citizens](/2678/)
 
 ## Linked List
 
