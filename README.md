@@ -41,10 +41,12 @@
 - [20. Valid Parentheses](/20/) \#stack
 - [26. Remove Duplicates from Sorted Array](/26/)
 - [27. Remove Element](/27/)
+- [28. Find the Index of the First Occurrence in a String](/28/)
 - [42. Trapping Rain Water](/42/)
 - [45. Jump Game II](/45/)
 - [55. Jump Game](/55/)
 - [58. Length of Last Word](/58/)
+- [68. Text Justification](/68/)
 - [80. Remove Duplicates from Sorted Array II](/80/)
 - [88. Merge Sorted Array](/88/)
 - [121. Best Time to Buy and Sell Stock](/121/)
