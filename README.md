@@ -51,6 +51,7 @@
 - [88. Merge Sorted Array](/88/)
 - [121. Best Time to Buy and Sell Stock](/121/)
 - [122. Best Time to Buy and Sell Stock II](/122/)
+- [125. Valid Palindrome](/125/)
 - [134. Gas Station](/134/)
 - [135. Candy](/135/)
 - [151. Reverse Words in a String](/151/)
