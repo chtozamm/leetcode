@@ -51,7 +51,6 @@
 - [88. Merge Sorted Array](/88/)
 - [121. Best Time to Buy and Sell Stock](/121/)
 - [122. Best Time to Buy and Sell Stock II](/122/)
-- [125. Valid Palindrome](/125/)
 - [134. Gas Station](/134/)
 - [135. Candy](/135/)
 - [151. Reverse Words in a String](/151/)
@@ -71,6 +70,14 @@
 - [2191. Sort the Jumbled Numbers](/2191/)
 - [2418. Sort the People](/2418/)
 - [2678. Number of Senior Citizens](/2678/)
+
+## Two Pointers
+
+- [11. Container With Most Water](/11/)
+- [15. 3Sum](/15/)
+- [125. Valid Palindrome](/125/)
+- [167. Two Sum II - Input Array Is Sorted](/167/)
+- [392. Is Subsequence](/392/)
 
 ## Graph
 
