@@ -2,43 +2,10 @@
 
 \* multiple solutions
 
-## Unsorted
-
-- [1. Two Sum](/1/)
-- [726. Number of Atoms](/726/)\*
-- [1190. Reverse Substrings Between Each Pair of Parentheses](/1190/)
-- [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](/1509/)
-- [1518. Water Bottles](/1518/)
-- [1598. Crawler Log Folder](/1598/)
-- [1701. Average Waiting Time](/1701/)
-- [1717. Maximum Score From Removing Substrings](/1717/)
-- [1823. Find the Winner of the Circular Game](/1823/)
-- [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](/2058/)
-- [2096. Step-By-Step Directions From a Binary Tree Node to Another](/2096/)
-- [2196. Create Binary Tree From Descriptions](/2196/)
-- [2582. Pass the Pillow](/2582/)
-- [2751. Robot Collisions](/2751/)
-- [3136. Valid Word](/3136/)
-
-## Dynamic Programming
-
-- [1105. Filling Bookcase Shelves](/1105/)
-- [1395. Count Number of Teams](/1395/)
-- [22. Generate Parentheses](/22/) \#backtracking
-- [46. Permutations](/46/) \#backtracking
-
-## Binary Tree
-
-### Post-Order Traversal
-
-- [1110. Delete Nodes And Return Forest](/1110/)
-- [1530. Number of Good Leaf Nodes Pairs](/1530/)
-
 ## Array / String
 
 - [6. Zigzag Conversion](/6/)
 - [14. Longest Common Prefix](/14/)
-- [20. Valid Parentheses](/20/) \#stack
 - [26. Remove Duplicates from Sorted Array](/26/)
 - [27. Remove Element](/27/)
 - [28. Find the Index of the First Occurrence in a String](/28/)
@@ -66,10 +33,17 @@
 - [1636. Sort Array by Increasing Frequency](/1636/)
 - [1653. Minimum Deletions to Make String Balanced](/1653/)
 - [2053. Kth Distinct String in an Array](/2053/)
-- [2134. Minimum Swaps to Group All 1's Together II](/2134/) \#sliding-window
 - [2191. Sort the Jumbled Numbers](/2191/)
 - [2418. Sort the People](/2418/)
 - [2678. Number of Senior Citizens](/2678/)
+
+## Stack
+
+- [20. Valid Parentheses](/20/)
+
+## Sliding Window
+
+- [3. Longest Substring Without Repeating Characters](/3/)
 
 ## Two Pointers
 
@@ -78,6 +52,24 @@
 - [125. Valid Palindrome](/125/)
 - [167. Two Sum II - Input Array Is Sorted](/167/)
 - [392. Is Subsequence](/392/)
+
+## Bit Manipulation
+
+- [67. Add Binary](/67/)
+
+## Dynamic Programming
+
+- [1105. Filling Bookcase Shelves](/1105/)
+- [1395. Count Number of Teams](/1395/)
+- [22. Generate Parentheses](/22/) \#backtracking
+- [46. Permutations](/46/) \#backtracking
+
+## Binary Tree
+
+### Post-Order Traversal
+
+- [1110. Delete Nodes And Return Forest](/1110/)
+- [1530. Number of Good Leaf Nodes Pairs](/1530/)
 
 ## Graph
 
@@ -99,6 +91,25 @@
 
 ## Hash Table
 
+- [1. Two Sum](/1/)
 - [12. Integer to Roman](/12/)
 - [13. Roman to Integer](/13/)
 - [1460. Make Two Arrays Equal by Reversing Subarrays](/1460/)
+
+## Unsorted
+
+- [726. Number of Atoms](/726/)\*
+- [1190. Reverse Substrings Between Each Pair of Parentheses](/1190/)
+- [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](/1509/)
+- [1518. Water Bottles](/1518/)
+- [1598. Crawler Log Folder](/1598/)
+- [1701. Average Waiting Time](/1701/)
+- [1717. Maximum Score From Removing Substrings](/1717/)
+- [1823. Find the Winner of the Circular Game](/1823/)
+- [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](/2058/)
+- [2096. Step-By-Step Directions From a Binary Tree Node to Another](/2096/)
+- [2134. Minimum Swaps to Group All 1's Together II](/2134/) \#sliding-window
+- [2196. Create Binary Tree From Descriptions](/2196/)
+- [2582. Pass the Pillow](/2582/)
+- [2751. Robot Collisions](/2751/)
+- [3136. Valid Word](/3136/)
