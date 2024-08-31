@@ -1,29 +1,19 @@
 // 3. Longest Substring Without Repeating Characters
 package longest_substring
 
-import "strings"
-
 func lengthOfLongestSubstring(s string) int {
-	charsSlice := strings.Split(s, "")
-	maxCount := 0
+	charMap := make(map[rune]int)
+	left, maxLength := 0, 0
 
-	for i := 0; i < len(charsSlice); i++ {
-		charsMap := map[string]bool{}
-		count := 0
-		for j := i; j < len(charsSlice); j++ {
-			// Break if the character is present in the map
-			// Otherwise add it to the map and increment the count
-			if charsMap[charsSlice[j]] {
-				break
-			} else {
-				charsMap[charsSlice[j]] = true
-				count++
-			}
+	for right, char := range s {
+		// If the character is already in the map and its index is within the current window,
+		// move the left pointer to the right
+		if index, found := charMap[char]; found && index >= left {
+			left = index + 1
 		}
-		if count > maxCount {
-			maxCount = count
-		}
+		charMap[char] = right
+		maxLength = max(maxLength, right-left+1)
 	}
 
-	return maxCount
+	return maxLength
 }
