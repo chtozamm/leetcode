@@ -10,22 +10,17 @@ func isValid(s string) bool {
 		']': '[',
 	}
 
-	for _, r := range s {
-		switch r {
+	for _, char := range s {
+		switch char {
 		case '(', '{', '[':
-			stack = append(stack, r)
-		case ')', '}', ']':
-			// If the stack is empty or the top of the stack does not match the corresponding opening parenthesis, return false
-			if len(stack) == 0 || stack[len(stack)-1] != parenthesesPairs[r] {
+			stack = append(stack, char)
+		default:
+			if len(stack) == 0 || stack[len(stack)-1] != parenthesesPairs[char] {
 				return false
 			}
-			if len(stack) > 0 && stack[len(stack)-1] == parenthesesPairs[r] {
-				// Pop the stack
-				stack = stack[:len(stack)-1]
-			}
+			stack = stack[:len(stack)-1]
 		}
 	}
 
-	// If the stack is empty, all parentheses were matched; otherwise, return false
 	return len(stack) == 0
 }

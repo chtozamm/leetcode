@@ -47,6 +47,10 @@
 - [30. Substring with Concatenation of All Words](/30/)
 - [209. Minimum Size Subarray Sum](/209/)
 
+## Matrix
+
+- [48. Rotate Image](/48/)
+
 ## Two Pointers
 
 - [11. Container With Most Water](/11/)
@@ -96,6 +100,8 @@
 - [1. Two Sum](/1/)
 - [12. Integer to Roman](/12/)
 - [13. Roman to Integer](/13/)
+- [205. Isomorphic Strings](/205/)
+- [383. Ransom Note](/383/)
 - [1460. Make Two Arrays Equal by Reversing Subarrays](/1460/)
 
 ## Unsorted
