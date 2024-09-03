@@ -27,6 +27,7 @@
 - [274. H-Index](/274/)
 - [350. Intersection of Two Arrays II](/350/)
 - [380. Insert Delete GetRandom O(1)](/380/)
+- [796. Rotate String](/796/)
 - [912. Sort an Array](/912/) \#counting-sort
 - [1380. Lucky Numbers in a Matrix](/1380/)
 - [1605. Find Valid Matrix Given Row and Column Sums](/1605/)
@@ -50,6 +51,7 @@
 ## Matrix
 
 - [48. Rotate Image](/48/)
+- [73. Set Matrix Zeroes](/73/)
 
 ## Two Pointers
 
