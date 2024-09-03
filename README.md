@@ -92,6 +92,8 @@
 ## Linked List
 
 - [2. Add Two Numbers](/2/)
+<!-- - [82. Remove Duplicates from Sorted List II](/82/) -->
+- [83. Remove Duplicates from Sorted List](/83/)
 
 ## Math
 
