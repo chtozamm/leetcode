@@ -1,4 +1,4 @@
-package remove_duplicates
+package remove_duplicates_ii
 
 import (
 	"reflect"
@@ -13,12 +13,12 @@ type testCase struct {
 func TestDeleteDuplicates(t *testing.T) {
 	testCases := []testCase{
 		{
-			head:     sliceToLinkedList([]int{1, 1, 2}),
-			expected: []int{1, 2},
+			head:     sliceToLinkedList([]int{1, 2, 3, 3, 4, 4, 5}),
+			expected: []int{1, 2, 5},
 		},
 		{
-			head:     sliceToLinkedList([]int{1, 1, 2, 3, 3}),
-			expected: []int{1, 2, 3},
+			head:     sliceToLinkedList([]int{1, 1, 1, 2, 3}),
+			expected: []int{2, 3},
 		},
 	}
 
