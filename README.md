@@ -92,9 +92,11 @@
 ## Linked List
 
 - [2. Add Two Numbers](/2/)
+- [19. Remove Nth Node From End of List](/19/)
 - [82. Remove Duplicates from Sorted List II](/82/)
 - [83. Remove Duplicates from Sorted List](/83/)
 - [141. Linked List Cycle](/141/)
+  [2095. Delete the Middle Node of a Linked List](/2095/)
 
 ## Math
 
