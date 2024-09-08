@@ -99,6 +99,7 @@
 ## Math
 
 - [9. Palindrome Number](/9/)
+- [66. Plus One](/66/)
 
 ## Hash Table
 
