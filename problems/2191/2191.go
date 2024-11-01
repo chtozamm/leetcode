@@ -8,29 +8,32 @@ import (
 )
 
 func sortJumbled(mapping []int, nums []int) []int {
+	// Define a struct to store original numbers and their remapped values for sorting purposes
 	type remappedNum struct {
 		original int
 		remapped int
 	}
 
-	remappedNums := []remappedNum{} // Slice to store original numbers along with their remapped values
+	remappedNums := make([]remappedNum, 0, len(nums))
 
-	// Remap each number according to the mapping
-	for _, n := range nums {
-		nStr := strconv.Itoa(n)
-		digits := strings.Split(nStr, "")
+	for _, num := range nums {
+		// Convert the original number to a string and split it into digits
+		numStr := strconv.Itoa(num)
+		digits := strings.Split(numStr, "")
+
 		sb := strings.Builder{}
 
-		// Remap each digit according to the provided mapping
 		for _, d := range digits {
-			dInt, _ := strconv.Atoi(d)
-			mappedDigit := mapping[dInt]
+			// Remap each digit according to the provided mapping and append it to a new string
+			digit, _ := strconv.Atoi(d)
+			mappedDigit := mapping[digit]
 			mappedDigitStr := strconv.Itoa(mappedDigit)
 			sb.WriteString(mappedDigitStr)
 		}
 
+		// Convert the remapped string back to an integer and store it along with the original number
 		rn, _ := strconv.Atoi(sb.String())
-		remappedNums = append(remappedNums, remappedNum{original: n, remapped: rn})
+		remappedNums = append(remappedNums, remappedNum{original: num, remapped: rn})
 	}
 
 	// Sort the remapped numbers based on their remapped value

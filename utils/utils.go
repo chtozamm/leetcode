@@ -138,7 +138,7 @@ func SlicesEqualUnordered2D(slice1, slice2 [][]int) bool {
 	return true
 }
 
-func less(slice1, slice2 []int) bool {
+func Less(slice1, slice2 []int) bool {
 	for i := 0; i < len(slice1) && i < len(slice2); i++ {
 		if slice1[i] < slice2[i] {
 			return true
@@ -148,4 +148,13 @@ func less(slice1, slice2 []int) bool {
 		}
 	}
 	return len(slice1) < len(slice2)
+}
+
+func LinkedListToSlice(l *ListNode) []int {
+	nums := make([]int, 0)
+	for l != nil {
+		nums = append(nums, l.Val)
+		l = l.Next
+	}
+	return nums
 }
