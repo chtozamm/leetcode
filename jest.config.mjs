@@ -4,6 +4,9 @@ const config = {
   transform: {
     "^.+.tsx?$": ["ts-jest", {}],
   },
+  moduleNameMapper: {
+    '^@/(.*)$': '<rootDir>/typescript/$1',
+  },
 }
 
 export default config
