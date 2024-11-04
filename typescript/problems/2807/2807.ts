@@ -13,4 +13,3 @@ export function insertGreatestCommonDivisors(
   }
   return head
 }
-

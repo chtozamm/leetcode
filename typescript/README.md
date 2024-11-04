@@ -1,6 +1,7 @@
 ## String
 
 - [796. Rotate String](/problems/796/)
+- [3163. String Compression III](/problems/3163/)
 
 ## Math
 
