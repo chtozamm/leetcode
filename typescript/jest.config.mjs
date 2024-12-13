@@ -2,10 +2,10 @@
 const config = {
   testEnvironment: "node",
   transform: {
-    "^.+.tsx?$": ["ts-jest", {}],
+    "^.+.[js,ts]x?$": ["ts-jest", {}],
   },
   moduleNameMapper: {
-    '^@/(.*)$': '<rootDir>/typescript/$1',
+    "^@/(.*)$": "<rootDir>/$1",
   },
 }
 

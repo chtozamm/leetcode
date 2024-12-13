@@ -131,3 +131,4 @@
 - [2582. Pass the Pillow](/problems/2582/)
 - [2751. Robot Collisions](/problems/2751/)
 - [3136. Valid Word](/problems/3136/)
+- [2593. Find Score of an Array After Marking All Elements](/problems/2593/)
