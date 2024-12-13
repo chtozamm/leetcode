@@ -120,10 +120,10 @@ func SlicesEqualUnordered2D(slice1, slice2 [][]int) bool {
 
 	// Sort the outer slices based on the sorted inner slices
 	sort.Slice(slice1, func(i, j int) bool {
-		return less(slice1[i], slice1[j])
+		return Less(slice1[i], slice1[j])
 	})
 	sort.Slice(slice2, func(i, j int) bool {
-		return less(slice2[i], slice2[j])
+		return Less(slice2[i], slice2[j])
 	})
 
 	// Compare sorted slices
