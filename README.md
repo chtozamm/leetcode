@@ -7,5 +7,6 @@
 | [2270. Number of Ways to Split Array](/go/problems/2270)                              | Medium     | Array, Prefix Sum                                |
 | [2381. Shifting Letters II](/go/problems/2381)                                        | Medium     | Array, String, Prefix Sum                        |
 | [2466. Count Ways To Build Good Strings](/go/problems/2466)                           | Medium     | Dynamic Programming                              |
+| [2558. Take Gifts From the Richest Pile](/go/problems/2558)                           | Easy       | Array, Heap (Priority Queue), Simulation         |
 | [2559. Count Vowel Strings in Ranges](/go/problems/2559)                              | Medium     | Array, String, Prefix Sum                        |
 | [3264. Final Array State After K Multiplication Operations I](/go/problems/3264)      | Easy       | Array, Math, Heap (Priority Queue), Simulation   |
