@@ -3,6 +3,7 @@
 | [70. Climbing Stairs](/go/problems/0070)                                              | Easy       | Math, Dynamic Programming, Memoization           |
 | [496. Next Greater Element I](/go/problems/0496)                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack        |
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                    |
+| [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                    |
 | [1422. Maximum Score After Splitting a String](/go/problems/1422)                     | Easy       | String, Prefix Sum                               |
 | [1475. Final Prices With a Special Discount in a Shop](/go/problems/1475)             | Easy       | Array, Stack, Monotonic Stack                    |
 | [1769. Minimum Number of Operations to Move All Balls to Each Box](/go/problems/1769) | Medium     | Array, String, Prefix Sum                        |
