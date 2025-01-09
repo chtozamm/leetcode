@@ -9,6 +9,7 @@
 | [1475. Final Prices With a Special Discount in a Shop](/go/problems/1475)             | Easy       | Array, Stack, Monotonic Stack                                     |
 | [1769. Minimum Number of Operations to Move All Balls to Each Box](/go/problems/1769) | Medium     | Array, String, Prefix Sum                                         |
 | [1930. Unique Length-3 Palindromic Subsequences](/go/problems/1930)                   | Medium     | Hash Table, String, Bit Manipulation, Prefix Sum                  |
+| [2185. Counting Words With a Given Prefix](/go/problems/2185)                         | Easy       | Array, String, String Matching                                    |
 | [2270. Number of Ways to Split Array](/go/problems/2270)                              | Medium     | Array, Prefix Sum                                                 |
 | [2381. Shifting Letters II](/go/problems/2381)                                        | Medium     | Array, String, Prefix Sum                                         |
 | [2466. Count Ways To Build Good Strings](/go/problems/2466)                           | Medium     | Dynamic Programming                                               |
