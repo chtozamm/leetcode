@@ -3,6 +3,7 @@
 | [50. Pow(x, n)](/go/problems/0050)                                                    | Easy       | Math, Recursion                                                   |
 | [69. Sqrt(x)](/go/problems/0069)                                                      | Easy       | Math, Binary Search                                               |
 | [70. Climbing Stairs](/go/problems/0070)                                              | Easy       | Math, Dynamic Programming, Memoization                            |
+| [104. Maximum Depth of Binary Tree](/go/problems/0104)                                | Easy       | Tree, Depth-First Search, Breadth-First Search, Binary Tree       |
 | [496. Next Greater Element I](/go/problems/0496)                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack                         |
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                                     |
 | [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                                     |
