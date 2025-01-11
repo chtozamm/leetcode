@@ -7,6 +7,7 @@
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                                     |
 | [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                                     |
 | [916. Word Subsets](/go/problems/0916)                                                | Medium     | Array, Hash Table, String                                         |
+| [1400. Construct K Palindrome Strings](/go/problems/1400)                             | Medium     | Hash Table, String, Greedy, Counting                              |
 | [1408. String Matching in an Array](/go/problems/1408)                                | Easy       | Array, String, String Matching                                    |
 | [1422. Maximum Score After Splitting a String](/go/problems/1422)                     | Easy       | String, Prefix Sum                                                |
 | [1475. Final Prices With a Special Discount in a Shop](/go/problems/1475)             | Easy       | Array, Stack, Monotonic Stack                                     |
