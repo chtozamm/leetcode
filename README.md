@@ -1,5 +1,6 @@
 | Title                                                                                 | Difficulty | Tag                                                               |
 | ------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- |
+| [2. Add Two Numbers](/go/problems/0002)                                               | Medium     | Linked List, Math, Recursion                                      |
 | [50. Pow(x, n)](/go/problems/0050)                                                    | Easy       | Math, Recursion                                                   |
 | [69. Sqrt(x)](/go/problems/0069)                                                      | Easy       | Math, Binary Search                                               |
 | [70. Climbing Stairs](/go/problems/0070)                                              | Easy       | Math, Dynamic Programming, Memoization                            |
