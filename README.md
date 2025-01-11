@@ -13,6 +13,7 @@
 | [1408. String Matching in an Array](/go/problems/1408)                                | Easy       | Array, String, String Matching                                    |
 | [1422. Maximum Score After Splitting a String](/go/problems/1422)                     | Easy       | String, Prefix Sum                                                |
 | [1475. Final Prices With a Special Discount in a Shop](/go/problems/1475)             | Easy       | Array, Stack, Monotonic Stack                                     |
+| [1768. Merge Strings Alternately](/go/problems/1768)                                  | Easy       | Two Pointers, String                                              |
 | [1769. Minimum Number of Operations to Move All Balls to Each Box](/go/problems/1769) | Medium     | Array, String, Prefix Sum                                         |
 | [1930. Unique Length-3 Palindromic Subsequences](/go/problems/1930)                   | Medium     | Hash Table, String, Bit Manipulation, Prefix Sum                  |
 | [2185. Counting Words With a Given Prefix](/go/problems/2185)                         | Easy       | Array, String, String Matching                                    |
