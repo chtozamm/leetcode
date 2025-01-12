@@ -10,6 +10,7 @@
 | [680. Valid Palindrome II](/go/problems/0680)                                         | Easy       | Two Pointers, String, Greedy                                      |
 | [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                                     |
 | [916. Word Subsets](/go/problems/0916)                                                | Medium     | Array, Hash Table, String                                         |
+| [1071. Greatest Common Divisor of Strings](/go/problems/1071)                         | Easy       | Math, String                                                      |
 | [1400. Construct K Palindrome Strings](/go/problems/1400)                             | Medium     | Hash Table, String, Greedy, Counting                              |
 | [1408. String Matching in an Array](/go/problems/1408)                                | Easy       | Array, String, String Matching                                    |
 | [1422. Maximum Score After Splitting a String](/go/problems/1422)                     | Easy       | String, Prefix Sum                                                |
