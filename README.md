@@ -7,6 +7,7 @@
 | [104. Maximum Depth of Binary Tree](/go/problems/0104)                                | Easy       | Tree, Depth-First Search, Breadth-First Search, Binary Tree       |
 | [496. Next Greater Element I](/go/problems/0496)                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack                         |
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                                     |
+| [605. Can Place Flowers](/go/problems/0605)                                           | Easy       | Array, Greedy                                                     |
 | [680. Valid Palindrome II](/go/problems/0680)                                         | Easy       | Two Pointers, String, Greedy                                      |
 | [704. Binary Search](/go/problems/0704)                                               | Easy       | Array, Binary Search                                              |
 | [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                                     |
