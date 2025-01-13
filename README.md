@@ -26,4 +26,5 @@
 | [2558. Take Gifts From the Richest Pile](/go/problems/2558)                           | Easy       | Array, Heap (Priority Queue), Simulation                          |
 | [2559. Count Vowel Strings in Ranges](/go/problems/2559)                              | Medium     | Array, String, Prefix Sum                                         |
 | [3042. Count Prefix and Suffix Pairs I](/go/problems/3042)                            | Easy       | Array, String, Trie, Rolling Hash, String Matching, Hash Function |
+| [3223. Minimum Length of String After Operations](/go/problems/3223)                  | Medium     | Hash Table, String, Counting                                      |
 | [3264. Final Array State After K Multiplication Operations I](/go/problems/3264)      | Easy       | Array, Math, Heap (Priority Queue), Simulation                    |
