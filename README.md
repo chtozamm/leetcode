@@ -6,6 +6,7 @@
 | [70. Climbing Stairs](/go/problems/0070)                                              | Easy       | Math, Dynamic Programming, Memoization                            |
 | [104. Maximum Depth of Binary Tree](/go/problems/0104)                                | Easy       | Tree, Depth-First Search, Breadth-First Search, Binary Tree       |
 | [151. Reverse Words in a String](/go/problems/0151)                                   | Medium     | Two Pointers, String                                              |
+| [208. Implement Trie (Prefix Tree)](/go/problems/0208)                                | Medium     | Hash Table, String, Design, Trie                                  |
 | [345. Reverse Vowels of a String](/go/problems/0345)                                  | Easy       | Two Pointers, String                                              |
 | [496. Next Greater Element I](/go/problems/0496)                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack                         |
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                                     |
