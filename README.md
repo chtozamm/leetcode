@@ -8,6 +8,7 @@
 | [496. Next Greater Element I](/go/problems/0496)                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack                         |
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                                     |
 | [680. Valid Palindrome II](/go/problems/0680)                                         | Easy       | Two Pointers, String, Greedy                                      |
+| [704. Binary Search](/go/problems/0704)                                               | Easy       | Array, Binary Search                                              |
 | [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                                     |
 | [916. Word Subsets](/go/problems/0916)                                                | Medium     | Array, Hash Table, String                                         |
 | [1071. Greatest Common Divisor of Strings](/go/problems/1071)                         | Easy       | Math, String                                                      |
