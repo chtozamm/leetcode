@@ -28,6 +28,7 @@
 | [2185. Counting Words With a Given Prefix](/go/problems/2185)                         | Easy       | Array, String, String Matching                                    |
 | [2270. Number of Ways to Split Array](/go/problems/2270)                              | Medium     | Array, Prefix Sum                                                 |
 | [2381. Shifting Letters II](/go/problems/2381)                                        | Medium     | Array, String, Prefix Sum                                         |
+| [2425. Bitwise XOR of All Pairings](/go/problems/2425)                                | Medium     | Array, Bit Manipulation, Brainteaser                              |
 | [2429. Minimize XOR](/go/problems/2429)                                               | Medium     | Greedy, Bit Manipulation                                          |
 | [2466. Count Ways To Build Good Strings](/go/problems/2466)                           | Medium     | Dynamic Programming                                               |
 | [2558. Take Gifts From the Richest Pile](/go/problems/2558)                           | Easy       | Array, Heap (Priority Queue), Simulation                          |
