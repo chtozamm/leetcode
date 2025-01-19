@@ -8,6 +8,7 @@
 | [151. Reverse Words in a String](/go/problems/0151)                                   | Medium     | Two Pointers, String                                                             |
 | [208. Implement Trie (Prefix Tree)](/go/problems/0208)                                | Medium     | Hash Table, String, Design, Trie                                                 |
 | [345. Reverse Vowels of a String](/go/problems/0345)                                  | Easy       | Two Pointers, String                                                             |
+| [407. Trapping Rain Water II](/go/problems/0407)                                      | Hard       | Array, Breadth-First Search, Heap (Priority Queue), Matrix                       |
 | [496. Next Greater Element I](/go/problems/0496)                                      | Easy       | Array, Hash Table, Stack, Monotonic Stack                                        |
 | [503. Next Greater Element II](/go/problems/0503)                                     | Medium     | Array, Stack, Monotonic Stack                                                    |
 | [605. Can Place Flowers](/go/problems/0605)                                           | Easy       | Array, Greedy                                                                    |
