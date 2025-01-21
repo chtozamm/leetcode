@@ -26,6 +26,7 @@
 | [1768. Merge Strings Alternately](/go/problems/1768)                                  | Easy       | Two Pointers, String                                                             |
 | [1769. Minimum Number of Operations to Move All Balls to Each Box](/go/problems/1769) | Medium     | Array, String, Prefix Sum                                                        |
 | [1930. Unique Length-3 Palindromic Subsequences](/go/problems/1930)                   | Medium     | Hash Table, String, Bit Manipulation, Prefix Sum                                 |
+| [2017. Grid Game](/go/problems/2017)                                                  | Medium     | Array, Matrix, Prefix Sum                                                        |
 | [2116. Check if a Parentheses String Can Be Valid](/go/problems/2116)                 | Medium     | String, Stack, Greedy                                                            |
 | [2185. Counting Words With a Given Prefix](/go/problems/2185)                         | Easy       | Array, String, String Matching                                                   |
 | [2270. Number of Ways to Split Array](/go/problems/2270)                              | Medium     | Array, Prefix Sum                                                                |
