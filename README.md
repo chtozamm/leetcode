@@ -23,6 +23,7 @@
 | [1422. Maximum Score After Splitting a String](/go/problems/1422)                     | Easy       | String, Prefix Sum                                                               |
 | [1431. Kids With the Greatest Number of Candies](/go/problems/1431)                   | Easy       | Array                                                                            |
 | [1475. Final Prices With a Special Discount in a Shop](/go/problems/1475)             | Easy       | Array, Stack, Monotonic Stack                                                    |
+| [1765. Map of Highest Peak](/go/problems/1765)                                        | Medium     | Array, Breadth-First Search, Matrix                                              |
 | [1768. Merge Strings Alternately](/go/problems/1768)                                  | Easy       | Two Pointers, String                                                             |
 | [1769. Minimum Number of Operations to Move All Balls to Each Box](/go/problems/1769) | Medium     | Array, String, Prefix Sum                                                        |
 | [1930. Unique Length-3 Palindromic Subsequences](/go/problems/1930)                   | Medium     | Hash Table, String, Bit Manipulation, Prefix Sum                                 |
