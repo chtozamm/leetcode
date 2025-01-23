@@ -17,6 +17,7 @@
 | [739. Daily Temperatures](/go/problems/0739)                                          | Medium     | Array, Stack, Monotonic Stack                                                    |
 | [916. Word Subsets](/go/problems/0916)                                                | Medium     | Array, Hash Table, String                                                        |
 | [1071. Greatest Common Divisor of Strings](/go/problems/1071)                         | Easy       | Math, String                                                                     |
+| [1267. Count Servers that Communicate](/go/problems/1267)                             | Medium     | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix, Counting    |
 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](/go/problems/1368)     | Hard       | Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path |
 | [1400. Construct K Palindrome Strings](/go/problems/1400)                             | Medium     | Hash Table, String, Greedy, Counting                                             |
 | [1408. String Matching in an Array](/go/problems/1408)                                | Easy       | Array, String, String Matching                                                   |
