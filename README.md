@@ -42,6 +42,7 @@
 | [2657. Find the Prefix Common Array of Two Arrays](/go/problems/2657)                 | Medium     | Array, Hash Table, Bit Manipulation                                              |
 | [2661. First Completely Painted Row or Column](/go/problems/2661)                     | Medium     | Array, Hash Table, Matrix                                                        |
 | [2683. Neighboring Bitwise XOR](/go/problems/2683)                                    | Medium     | Array, Bit Manipulation                                                          |
+| [2948. Make Lexicographically Smallest Array by Swapping Elements](/go/problems/2948) | Medium     | Array, Union Find, Sorting                                                       |
 | [3042. Count Prefix and Suffix Pairs I](/go/problems/3042)                            | Easy       | Array, String, Trie, Rolling Hash, String Matching, Hash Function                |
 | [3223. Minimum Length of String After Operations](/go/problems/3223)                  | Medium     | Hash Table, String, Counting                                                     |
 | [3264. Final Array State After K Multiplication Operations I](/go/problems/3264)      | Easy       | Array, Math, Heap (Priority Queue), Simulation                                   |
